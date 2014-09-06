@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: f95bf7423f623465e8f5d86ac41f1c38
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Saucer
+    21300002: Saucer_0
+    21300004: Saucer_1
+    21300006: Saucer_2
+    21300008: Saucer_3
+    21300010: Saucer_4
+    21300012: Saucer_5
+    21300014: Saucer_6
+    21300016: Saucer_7
+    21300018: Saucer_8
+    21300020: Saucer_9
+    21300022: Saucer_10
+    21300024: Saucer_11
+    21300026: Saucer_12
+    21300028: Saucer_13
+    21300030: Saucer_14
+    21300032: Saucer_15
+    21300034: Saucer_16
+    21300036: Saucer_17
+    21300038: Saucer_18
+    21300040: Saucer_19
+    21300042: Saucer_20
+    21300044: Saucer_21
+    21300046: Saucer_22
+    21300048: Saucer_23
+    21300050: Saucer_24
+    21300052: Saucer_25
+    21300054: Saucer_26
+    21300056: Saucer_27
+    21300058: Saucer_28
+    21300060: Saucer_29
+    21300062: Saucer_30
+    21300064: Saucer_31
+    21300066: Saucer_32
+    21300068: Saucer_33
+    21300070: Saucer_34
+    21300072: Saucer_35
+    21300074: Saucer_36
+    21300076: Saucer_37
+    21300078: Saucer_38
+    21300080: Saucer_39
+    21300082: Saucer_40
+    21300084: Saucer_41
+    21300086: Saucer_42
+    21300088: Saucer_43
+    21300090: Saucer_44
+    21300092: Saucer_45
+    21300094: Saucer_46
+    21300096: Saucer_47
+    21300098: Saucer_48
+    21300100: Saucer_49
+    21300102: Saucer_50
+    21300104: Saucer_51
+    21300106: Saucer_52
+    21300108: Saucer_53
+    21300110: Saucer_54
+    21300112: Saucer_55
+    21300114: Saucer_56
+    21300116: Saucer_57
+    21300118: Saucer_58
+    21300120: Saucer_59
+    21300122: Saucer_60
+    21300124: Saucer_61
+    21300126: Saucer_62
+    21300128: Saucer_63
+    21300130: Saucer_64
+    21300132: Saucer_65
+    21300134: Saucer_66
+    21300136: Saucer_67
+    21300138: Saucer_68
+    21300140: Saucer_69
+    21300142: Saucer_70
+    21300144: Saucer_71
+    21300146: Saucer_72
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Saucer_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 153
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 17
+        width: 153
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 116
+        width: 47
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 113
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 116
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 60
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 60
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 60
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 60
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 43
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 43
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 41
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_21
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 43
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 43
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_25
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 43
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 31
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_28
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_32
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_33
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 31
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 29
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 31
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_39
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_40
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_41
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 31
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_48
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 17
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_50
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_52
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_53
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_54
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 7
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 7
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_58
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_59
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_60
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 7
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_63
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_64
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_67
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_68
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_69
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_70
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_71
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saucer_72
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 5
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
